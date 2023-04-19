@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 📫 You can reach me at mengyuan_wu@mail.bnu.edu.cn. Let's connect!
 
-The repositories on my home page consist of the following main section:
+
 
