@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Haku (Mengyuan Wu), a finance professional with a passion for data and technology.
+
+🎓 Bachelor's in Accounting @ Beijing Normal University; Master's in Finance @ Nanyang Technological University.
+
+🌱 Currently learning Machine Learning, SQL, and Python to enhance my skills in data analysis and modeling.
+
+🔭 Working on credit risk management and looking for new opportunities in the field of data analytics.
+
+💻 Open to full-time or part-time work, and eager to collaborate with others on interesting projects.
+
+📫 You can reach me at mengyuan_wu@mail.bnu.edu.cn. Let's connect!
+
+The repositories on my home page consist of the following main section:
+
